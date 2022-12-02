@@ -28,7 +28,7 @@ I strive to create memorable experiences through digital platforms. Fullstack ca
 </br>
 </br>
 
-### [Resume](https://drive.google.com/file/d/1FfyjV9oxZDYfzNW13Zj2T8f5mCIfmHq1/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1qwW0pwZ4YOX42idTNKhDFAYRTepCjUOW/view?usp=share_link)
 
 [![Idriss's github stats](https://github-readme-stats.vercel.app/api?username=idrissdimson&show_icons=true)](https://www.linkedin.com/in/idrissdimson/)
 </br>
